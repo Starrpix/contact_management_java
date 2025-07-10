@@ -1,6 +1,6 @@
 # 📇 Contact Management System 
 
-> A Spring Boot–based Contact Management System that exposes RESTful APIs for performing CRUD operations over HTTP. Built with love by two curious minds.
+> A Spring Boot–based Contact Management System. Built with love.
 
 ---
 
