@@ -21,7 +21,7 @@ You can interact with the application using **Postman**, **curl**, or any HTTP c
 
 ## ⚙️ Tech Stack
 
-- Java 17+
+- Java 21
 - Spring Boot
 - Maven
 - MySQL database
